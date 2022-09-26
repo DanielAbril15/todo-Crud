@@ -29,8 +29,8 @@ true
 'CV', 
 'presentar cv para conseguir trabajo',
 true
-)
+);
 
-select * from todos 
+select * from todos; 
 
-select * from todos where is_complete = true
+select * from todos where is_complete = true;
